@@ -4,7 +4,7 @@ var Animation = Animation || {};
 	var renderer;
 	var stage;
 	var resources =["present-box.png"];
-	var resourcesPath = "http://icons.iconseeker.com/png/fullsize/superbuuf/";//sportDirect/img/
+	var resourcesPath = "https://icons.iconseeker.com/png/fullsize/superbuuf/";//sportDirect/img/
 	var oldPosY = 0;
 	var oldPosX = 0;
 
