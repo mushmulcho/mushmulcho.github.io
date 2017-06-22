@@ -9,7 +9,7 @@ var Animation = Animation || {};
 	var oldPosX = 0;
 
 	animation.init = function(){
-		renderer = PIXI.autoDetectRenderer(window.innerWidth, 980,{roundPixels: true});
+		renderer = PIXI.autoDetectRenderer(window.innerWidth, window.innerHeight,{roundPixels: true});
 		renderer.backgroundColor = 0x808080;
 		stage = new PIXI.Container();
 
