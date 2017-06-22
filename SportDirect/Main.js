@@ -8,7 +8,7 @@ var _JSONfile;
 console.log('UnlimitedPowerMode',powerMode," EUR:",EUR);//TODO
 
 window.onload = function() {
-    $.getJSON("SportDirect/img/pr.json", function(json) {
+    $.getJSON("SportDirect/res/pr.json", function(json) {
         _JSONfile = json;
         View.Storage = new Player.Storage();
         View.Creator = new Player.Creator();
