@@ -4,7 +4,7 @@ var Animation = Animation || {};
 	var renderer;
 	var stage;
 	var resources =["present-box.png"];
-	var resourcesPath = "SportDirect/res/";
+	var resourcesPath = "res/";
 	var oldPosY = 0;
 	var oldPosX = 0;
 
