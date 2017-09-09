@@ -4,7 +4,7 @@ body{
 	background: silver url("../res/stars-wallpapers.jpg") no-repeat fixed center;
 	background-size: cover;
 }
-.bob{
+.body{
 	z-index: 234;
 	position: absolute;
 }
