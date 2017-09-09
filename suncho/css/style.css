@@ -8,7 +8,7 @@ body{
 header{
 	text-align: left;
 	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1);
-	padding: 1px 30px 1px 30px;
+	padding: 1px 30px 1px 0px;
 	padding-top: 30px;
 /*	background: rgba(0,0,0,0.6);*/
     -webkit-border-radius: 6px;
@@ -21,10 +21,10 @@ h1{
 	font: 900 55px 'Butterfly Kids';
 }
 h2{
-	font: 900 64px 'Butterfly Kids';
+	font: 900 62px 'Butterfly Kids';
 }
 header pre{
-	font: bold 44px/16px 'Butterfly Kids';
+	font: bold 42px/16px 'Butterfly Kids';
 }
 nav{
 	top:0px;
