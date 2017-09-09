@@ -1,20 +1,34 @@
 <html>
 <head>
 	<title>Сънчо</title>
+	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<!-- JQuery -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<!-- PIXI library -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.2.2/pixi.min.js"></script>
+	<!-- animation js -->
+	<script type="text/javascript" src="js/main.js"></script>
+	<!-- Add Butterfly Kids Font family -->
 	<link href="https://fonts.googleapis.com/css?family=Butterfly+Kids" rel="stylesheet">
+	<!-- Add icon library -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- Open all link in new window , if you dont set <a> to: target="_self" -->
+	<base target="_blank">
 </head>
-<body>
+<body onload="createAnimation()">
+
 	<nav><ul>
-		<li><a href="#top">Top</a></li>
-		<li><a href="#information">Information</a></li>
-		<li><a href="#featured">Featured</a></li>
-		<li><a href="#contact">Contact</a></li>
+		<li><a href="#top" target="_self">Top</a></li>
+		<li><a href="#information" target="_self">Information</a></li>
+		<li><a href="#featured" target="_self">Featured</a></li>
+		<li><a href="#contact" target="_self">Contact</a></li>
 	</ul></nav>
+
 	<header id="top" name="top">
-		<img id="suncho" class="suncho" src="res\suncho.png">
-		<h1>Hello, i am Suncho</h1>
-		<pre>kids</pre>
+	<img id="suncho" class="suncho" src="res\suncho.png">
+	<h2>Hello, i am Suncho</h2>
+	<pre>And this is a website about somebody we admired when we were kids</pre>
 	</header>
 	<div id="information" name="information">
 		<h1>Information</h1>
@@ -86,7 +100,17 @@
 			</tbody>
 		</table>
 	</section>
-	<footer id="contact" name="contact">Contact</footer>
-
+	<footer id="contact" name="contact">
+		<h1>Contact </h1>
+		<a href="https://www.facebook.com/ncuxoTo" class="fa fa-facebook"></a>
+		<a href="https://plus.google.com/100290103769353588404" class="fa fa-google"></a>
+		<a href="https://www.youtube.com" class="fa fa-youtube"></a>
+		<a href="mailto:lostskull@gmail.com">Email Us</a> 
+	</footer>
+<script>
+	function createAnimation() {
+		var animation = new Main.Animation();
+	}
+</script>
 </body>
 </html>
