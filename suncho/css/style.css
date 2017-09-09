@@ -1,9 +1,12 @@
 body{
-	z-index: 5;
 	font :500 22px/26px arial;
 	color:white;
 	background: silver url("../res/stars-wallpapers.jpg") no-repeat fixed center;
 	background-size: cover;
+}
+.bob{
+	z-index: 234;
+	position: absolute;
 }
 header{
 	text-align: left;
@@ -70,7 +73,6 @@ nav ul li a:hover{
 	color:white;
 }
 #information{
-	z-index: 5;
 	padding: 20px 70px 20px 70px;
 }
 blockquote{
