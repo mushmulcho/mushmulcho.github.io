@@ -1,16 +1,15 @@
 body{
+	z-index: 5;
+	font :500 22px/26px arial;
 	color:white;
-	font-family: Impact;
-	padding-left: 50px;
-	padding-right: 50px;
 	background: silver url("../res/stars-wallpapers.jpg") no-repeat fixed center;
+	background-size: cover;
 }
 header{
 	text-align: left;
 	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1);
 	padding: 1px 30px 1px 30px;
-	padding-top: 50px;
-    margin-bottom: 30px;
+	padding-top: 30px;
 /*	background: rgba(0,0,0,0.6);*/
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -18,10 +17,14 @@ header{
     color:white;
 }
 h1{
+	text-align: center;
 	font: 900 55px 'Butterfly Kids';
 }
+h2{
+	font: 900 64px 'Butterfly Kids';
+}
 header pre{
-	font: bold 34px/16px 'Butterfly Kids';
+	font: bold 44px/16px 'Butterfly Kids';
 }
 nav{
 	top:0px;
@@ -29,7 +32,6 @@ nav{
 	z-index: 1024;
 	background: rgba(0,0,0,1);
 	width: 100%;
-    margin-left: -58px;
     -webkit-transition: padding-bottom 1.2s, padding-top 1.2s;
     transition: padding-bottom 1.2s, padding-top 1.2s;
 }
@@ -49,10 +51,16 @@ nav ul li{
     float: left;
     padding-right: 30px;
 }
-a{text-decoration: none;	color:#5F6FFE; }
+a{
+	text-decoration: none;
+	color:cyan; 
+}
+a:hover{
+	color:ivory;
+}
 #suncho{
-	width: 200px;
-	height: 200px;
+	width: 250px;
+	height: 250px;
 	float: left;
 }
 nav ul li a{
@@ -62,25 +70,59 @@ nav ul li a:hover{
 	color:white;
 }
 #information{
-	text-align: center;
-	margin-top: 150px;
+	z-index: 5;
 	padding: 20px 70px 20px 70px;
-	font:500 18px/26px arial;
-	border-radius: 15px;
-	color: white;
-	background-color: rgba(0,0,0,0.3);
 }
 blockquote{
-	
+	text-align: center;
+	font:500 18px/26px arial;
+	border-radius: 15px;
+	background-color: rgba(0,0,0,0.3);
 }
 table {
+	margin-left: 50px;
     border-collapse: collapse;
     width: 100%;
 }
 
 th, td {
+	font :500 22px/26px arial;
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
-th{font: 700 26px sans-serif}
+th{
+	font :700 26px arial;
+	color: cornflowerblue;
+}
+footer {
+	padding:50px;
+	text-align: center;
+
+}
+.fa {
+    padding: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-google {
+    background: coral;
+    color: white;
+}
+.fa-youtube {
+    background: red;
+    color: white;
+}
+canvas{
+	position: fixed;
+	top:0px;
+}
