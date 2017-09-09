@@ -2,8 +2,8 @@ var Main = Main || {};
 (function(Main){
 	var Animation = (function(){
 		// Static
-		Animation.resources = ["present-box.png"];
-		Animation.resourcesPath = "https://mushmulcho.github.io/SportDirect/res/";
+		Animation.resources = ["star-gif.gif"];
+		Animation.resourcesPath = "https://mushmulcho.github.io/suncho/res/";
 
 		// Private
 		var renderer;
