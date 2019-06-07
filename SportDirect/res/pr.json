@@ -1,7 +1,7 @@
 {
     "Генчо": {
         "name": "Генчо",
-        "gold": 70.78,
+        "gold": 30.9,
         "items": {
             "Airwalk Musket Sn CL81 Black 12 (46)": ["Airwalk Musket Sn CL81 Black 12 (46)", "16.80"],
             "Lonsdale 2Pk Boxer Sn00 Blk Pattern XX Large": ["Lonsdale 2Pk Boxer Sn00 Blk Pattern XX Large", "5.7"],
@@ -10,7 +10,7 @@
     },
     "Гошо": {
         "name": "Гошо",
-        "gold": 94.80000000000001,
+        "gold": 33.59,
         "items": {
             "Soul Cal Web Belt Sn00 Black One Sizes X2": ["Soul Cal Web Belt Sn00 Black One Size X2", "14.4"],
             "Penguin 4PkBoxerSn94 BX99 Black/White Large": ["Penguin 4PkBoxerSn94 BX99 Black/White Large", "19.19"]
@@ -18,10 +18,10 @@
     },
     "Аз": {
         "name": "Аз",
-        "gold": 100.77999999999999,
+        "gold": 34.79,
         "items": {
             "No Fear Spine Shoe Sn94 Navy 8 (42)": ["No Fear Spine Shoe Sn94 Navy 8 (42)", "23.99"],
-            "Spongebob Sgl Boxer Snr73 Yellow Medium": ["Spongebob Sgl Boxer Snr73 Yellow Medium", "3.6],
+            "Spongebob Sgl Boxer Snr73 Yellow Medium": ["Spongebob Sgl Boxer Snr73 Yellow Medium", "3.6"],
             "Character 2pk Boxer Snr00 Muppets Medium": ["Character 2pk Boxer Snr00 Muppets Medium", "7.2"]
         }
     }
