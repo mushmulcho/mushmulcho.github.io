@@ -1,8 +1,8 @@
 (function (Player){
 	
 	var Creator = (function(){
-		var transportationCharges = 34;//EUR 70 BGN
-		var moneyTakenFromCard = 589.93;// EUR 1156.26 BGN
+		var transportationCharges = 19.99;//EUR 70 BGN
+		var moneyTakenFromCard = 119.27;// EUR 1156.26 BGN
 
 		function Creator(){
 			init();
