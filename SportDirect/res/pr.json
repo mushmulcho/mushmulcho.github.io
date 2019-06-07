@@ -3,82 +3,26 @@
         "name": "Генчо",
         "gold": 70.78,
         "items": {
-            "SoulCal Chino Shorts Mens": ["SoulCal Chino Shorts Mens", "12"],
-            "No Fear Alpha Mens Skate Shoes  Colour: Navy/Khaki - 12(46)": ["No Fear Alpha Mens Skate Shoes  Colour: Navy/Khaki - 12(46)", "24"],
-            "Lee Cooper Heavy Weight Full Zipped Reversible Hoody Mens": ["Lee Cooper Heavy Weight Full Zipped Reversible Hoody Mens", "11.99"],
-            "Character T Shirt Mens Colour Darth Vader": ["Character T Shirt Mens Colour Darth Vader", "4.79"],
-            "New York York Yankees Flight Shoulder Bag Colour:Brown/Orange": ["New York York Yankees Flight Shoulder Bag Colour:Brown/Orange", "7.2"],
-            "Hot Tuna Aloha Board Shorts Mens - Colour: Black - XXX Large": ["Hot Tuna Aloha Board Shorts Mens - Colour: Black - XXX Large", "10.80"]
+            "Airwalk Musket Sn CL81 Black 12 (46)": ["Airwalk Musket Sn CL81 Black 12 (46)", "16.80"],
+            "Lonsdale 2Pk Boxer Sn00 Blk Pattern XX Large": ["Lonsdale 2Pk Boxer Sn00 Blk Pattern XX Large", "5.7"],
+            "Pierre C Reg Jean Snr89 Black 40W R": ["Pierre C Reg Jean Snr89 Black 40W R", "8.4"]
         }
     },
     "Гошо": {
         "name": "Гошо",
         "gold": 94.80000000000001,
         "items": {
-            "Donnay 10 Pack Trainer Socks X2": ["Donnay 10 Pack Trainer Socks X2", "9.6"],
-            "Donnay 3 Pack Tees White/Blue/Navy Large X2": ["Donnay 3 Pack Tees White/Blue/Navy Large X2", "14.4"],
-            "Lonsdale 2 Pack Trunk Mens X2": ["Lonsdale 2 Pack Trunk Mens X2", "13.2"],
-            "Nike Flex 2016 Run Sn71 Black/Blue 9 (44)": ["Nike Flex 2016 Run Sn71 Black/Blue 9 (44)", "57.6"]
+            "Soul Cal Web Belt Sn00 Black One Sizes X2": ["Soul Cal Web Belt Sn00 Black One Size X2", "14.4"],
+            "Penguin 4PkBoxerSn94 BX99 Black/White Large": ["Penguin 4PkBoxerSn94 BX99 Black/White Large", "19.19"]
         }
     },
     "Аз": {
         "name": "Аз",
         "gold": 100.77999999999999,
         "items": {
-            "Karrimor Antibes Beige": ["Karrimor Antibes Beige", "23.99"],
-            "No Fear Spine Shoe Burgundy": ["No Fear Spine Shoe Burgundy", "23.99"],
-            "SoulCal Chino Shorts Mens": ["SoulCal Chino Shorts Mens", "12"],
-            "Disney Animal Single Boxer Mens X2": ["Disney Animal Single Boxer Mens X2", "9.6"],
-            "Everlast Trnr Sock Brown ": ["Everlast Trnr Sock Brown ", "3"],
-            "Donnay Trainer Dark Asst": ["Donnay Trainer Dark Asst", "3.6"],
-            "Firetrap 1 Pack Formal Socks Mens": ["Firetrap 1 Pack Formal Socks Mens", "1.8"],
-            "Pierre Cardin C Chino Short ": ["Pierre Cardin C Chino Short ", "10.8"],
-            "Replay 5 Basic Swim Shorts Mens": ["Replay 5 Basic Swim Shorts Mens", "12"]
-        }
-    },
-    "Пламен": {
-        "name": "Пламен",
-        "gold": 206.38,
-        "items": {
-            "adidas Durama Running Shoes Ladies": ["adidas Durama Running Shoes Ladies", "28.8"],
-            "Lee C Tex X4": ["Lee C Tex X4", "14.4"],
-            "Dunlop Canvas Black/Black": ["Dunlop Canvas Black/Black", "15.6"],
-            "Karrimor Excel Lime/Blue/White": ["Karrimor Excel Lime/Blue/White", "41.99"],
-            "Converse Zakim Grey/White": ["Converse Zakim Grey/White", "53.99"],
-            "Under Armour Heat Gear 3 Pack Mens Quarter Socks": ["Under Armour Heat Gear 3 Pack Mens Quarter Socks", "9"],
-            "Dunlop 2pk White": ["Dunlop 2pk White", "3.6"],
-            "Donnay Trainer 10Pk White": ["Donnay Trainer 10Pk White", "3.6"],
-            "Karrimor 2pk White/Fluo ": ["Karrimor 2pk White/Fluo ", "5.4"],
-            "Puma ST Trainer Burgundy/White": ["Puma ST Trainer Burgundy/White", "30"]
-        }
-    },
-    "Дели": {
-        "name": "Дели",
-        "gold": 5.399999999999999,
-        "items": {
-            "Character Tee SS Lds63 Adventure Time 8 (XS)": ["Character Tee SS Lds63 Adventure Time 8 (XS)", "5.4"]
-        }
-    },
-    "Калоян": {
-        "name": "Калоян",
-        "gold": 12,
-        "items": {
-            "Pierre C Detail Polo Sn73 Red": ["Pierre C Detail Polo Sn73 Red", "12"]
-        }
-    },
-    "Марто": {
-        "name": "Марто",
-        "gold": 14.399999999999999,
-        "items": {
-            "Lee C Tex X4": ["Lee C Tex X4", "14.4"]
-        }
-    },
-    "Захари": {
-        "name": "Захари",
-        "gold": 50.4,
-        "items": {
-            "Lee C Tex X4": ["Lee C Tex X4", "14.4"],
-            "Karrimor Tempo 4 Tr Grey/Blue/Lime": ["Karrimor Tempo 4 Tr Grey/Blue/Lime", "36"]
+            "No Fear Spine Shoe Sn94 Navy 8 (42)": ["No Fear Spine Shoe Sn94 Navy 8 (42)", "23.99"],
+            "Spongebob Sgl Boxer Snr73 Yellow Medium": ["Spongebob Sgl Boxer Snr73 Yellow Medium", "3.6],
+            "Character 2pk Boxer Snr00 Muppets Medium": ["Character 2pk Boxer Snr00 Muppets Medium", "7.2"]
         }
     }
 }
